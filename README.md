@@ -1,5 +1,3 @@
-<img align="center" width="900" height="100" object-fit="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKVJEccHbxoR7sltfwI7lijFk4-6fZua9DeQ&usqp=CAU">
-
 <h1 align="center">Hi 👋, I'm Magdalena Falkowska-Legieć</h1>
 <h3 align="center">A passionate frontend developer from Poland</h3>
 
