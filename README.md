@@ -1,4 +1,4 @@
-<img align="center" width="900" height="80" src="https://40.media.tumblr.com/9837c6457a4856a2d1b4dc908355cc7f/tumblr_nlmjip00kK1u16n75o1_500.jpg">
+<img align="center" width="900" height="80" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKVJEccHbxoR7sltfwI7lijFk4-6fZua9DeQ&usqp=CAU">
 ![logo align="center"](https://hdwallpaperim.com/wp-content/uploads/2017/08/23/469226-Justin_Maller-abstract-Facets-748x313.jpg)
 <h1 align="center">Hi 👋, I'm Magdalena Falkowska-Legieć</h1>
 <h3 align="center">A passionate frontend developer from Poland</h3>
