@@ -1,4 +1,4 @@
-![logo width="100%"](https://hdwallpaperim.com/wp-content/uploads/2017/08/23/469226-Justin_Maller-abstract-Facets-748x313.jpg)
+![logo align="center"](https://hdwallpaperim.com/wp-content/uploads/2017/08/23/469226-Justin_Maller-abstract-Facets-748x313.jpg)
 <h1 align="center">Hi 👋, I'm Magdalena Falkowska-Legieć</h1>
 <h3 align="center">A passionate frontend developer from Poland</h3>
 
