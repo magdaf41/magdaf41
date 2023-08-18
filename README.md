@@ -1,4 +1,4 @@
-![logo](https://artincontext.org/wp-content/uploads/2021/10/Famous-Minimalist-Painters.jpg)
+![logo](https://rare-gallery.com/uploads/posts/340160-Digital-Art-The-Witcher-Video-Game-Wolf-Minimalist-Minimalism-Simple.jpg)
 <h1 align="center">Hi 👋, I'm Magdalena Falkowska-Legieć</h1>
 <h3 align="center">A passionate frontend developer from Poland</h3>
 
