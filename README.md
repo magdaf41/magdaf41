@@ -1,4 +1,4 @@
-|[logo](https://cdn.marketing.avocode.com/pupushify-production/frontend_6f5f5d3947.png)
+![logo](https://cdn.marketing.avocode.com/pupushify-production/frontend_6f5f5d3947.png)
 <h1 align="center">Hi 👋, I'm Magdalena Falkowska-Legieć</h1>
 <h3 align="center">A passionate frontend developer from Poland</h3>
 
