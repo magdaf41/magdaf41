@@ -1,4 +1,4 @@
-![logo]([https://cdn.marketing.avocode.com/pupushify-production/frontend_6f5f5d3947.png](https://artincontext.org/wp-content/uploads/2021/10/Famous-Minimalist-Painters.jpg))
+![logo](https://artincontext.org/wp-content/uploads/2021/10/Famous-Minimalist-Painters.jpg)
 <h1 align="center">Hi 👋, I'm Magdalena Falkowska-Legieć</h1>
 <h3 align="center">A passionate frontend developer from Poland</h3>
 
