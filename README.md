@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Magdalena Falkowska-Legieć</h1>
 <h3 align="center">A passionate frontend developer from Poland</h3>
 
-<img align="center" src="https://radcomservices.com/wp-content/uploads/2017/03/creative-people.jpg" alt="creative-people">
+<p align="center">
+ <img align="center" src="https://radcomservices.com/wp-content/uploads/2017/03/creative-people.jpg" alt="creative-people">
+</p>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=magdaf41&label=Profile%20views&color=0e75b6&style=flat" alt="magdaf41" /> </p>
 
