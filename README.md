@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=magdaf41&label=Profile%20views&color=0e75b6&style=flat" alt="magdaf41" /> </p>
 
-- 🔭 I’m currently working on [Ecommerce app](https://ecommerce-app-khaki.vercel.app/headphone)
+- 🔭 I’m currently working on [E-ccommerce App](https://ecommerce-app-khaki.vercel.app/)
 
 - 🌱 I’m currently learning **TypeScript**
 
