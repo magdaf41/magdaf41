@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Magdalena Falkowska-Legieć</h1>
-<h3 align="center">Frontend Developer</h3>
-
-<p align="center">
+<p align="center" height="80%>
  <img align="center" src="https://t3.ftcdn.net/jpg/02/92/88/72/360_F_292887204_2wH041phSQo70eqaE9GRqFvn5MmQ4B8w.jpg" alt="Frontend Developer Images ">
 </p>
 
