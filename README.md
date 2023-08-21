@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Magdalena Falkowska-Legieć</h1>
-<h3 align="center">A passionate frontend developer from Poland</h3>
+<h3 align="center">Frontend Developer</h3>
 
 <p align="center">
- <img align="center" src="https://radcomservices.com/wp-content/uploads/2017/03/creative-people.jpg" alt="creative-people">
+ <img align="center" src="https://t3.ftcdn.net/jpg/02/92/88/72/360_F_292887204_2wH041phSQo70eqaE9GRqFvn5MmQ4B8w.jpg" alt="Frontend Developer Images ">
 </p>
 
 
